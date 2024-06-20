@@ -115,3 +115,5 @@ Future Work
 -   In a real-world application, it would be better to aggregate data in an internal buffer and send it once a day to the application gateway in a batch, implying techniques such as delta encoding. It could also aggregate data at a lower resolution and take measurements less frequently. The collar could notify the pet's owner about suspicious health parameters directly or via the application. 
 -   Add location tracking info to send alerts when the pet enters/leaves safe zones using known WiFi networks.
 -   Use the measurements to present to the pet owner health alerts, vital signs, sleeping levels, activity levels, and calories burned.
+
+Test
